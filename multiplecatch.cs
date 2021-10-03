@@ -1,5 +1,5 @@
 ﻿using System;
-class GFG
+class exception
 {
     static void Main()
 
